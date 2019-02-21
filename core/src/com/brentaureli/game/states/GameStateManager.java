@@ -1,4 +1,4 @@
-package com.brentaureli.game.States;
+package com.brentaureli.game.states;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
